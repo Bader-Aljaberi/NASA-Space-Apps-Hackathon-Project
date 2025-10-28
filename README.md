@@ -1,8 +1,8 @@
-# NASA Space Apps Challenge 2024 - Space Biology Research Platform
+# NASA Space Apps Challenge 2025 - Space Biology Research Platform
 
 **Project Name:** NASA Space Biology Knowledge Engine  
 **Challenge:** Beyond the Barcode: Enhancing Space Biology with omics and AI Tools  
-**Team:** [Your Team Name]  
+**Team:** MKS Dragons  
 **Location:** Bahrain  
 
 ## Overview
