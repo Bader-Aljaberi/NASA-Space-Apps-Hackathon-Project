@@ -54,7 +54,7 @@ An interactive web application that provides researchers, students, and space en
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/NASA-Space-Apps-Hackathon-Project.git
+git clone https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project.git
 
 # Navigate to project directory
 cd NASA-Space-Apps-Hackathon-Project
